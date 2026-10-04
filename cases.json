@@ -1,0 +1,5 @@
+[
+  { "name": "http", "input": "80", "expected": "http" },
+  { "name": "ssh", "input": "22", "expected": "ssh" },
+  { "name": "whatsthis", "input": "", "expected": "unknown" }
+]
